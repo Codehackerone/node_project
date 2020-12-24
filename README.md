@@ -1,2 +1,2 @@
 # node_project
-The actual project deploy can be found at soumyajityelp-camp.heroku.com
+The actual project deploy can be found at http://soumyajityelp-camp.herokuapp.com/
